@@ -2,10 +2,10 @@
 ## 07.05.2019
 
 ### Teil 1
-- [ ]git Grundlagen
-- [ ]git Befehle
-- [ ]git Übungen
+- [ ] git Grundlagen
+- [ ] git Befehle
+- [ ] git Übungen
 ###Teil 2
-- [ ]Python installieren
-- [ ]noch etwas
-- [ ]noch etwas
+- [x] Python installieren
+- [ ] cmder installieren
+- [ ] programmieren mit python
