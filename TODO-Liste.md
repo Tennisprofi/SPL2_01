@@ -5,7 +5,8 @@
 - [ ] git Grundlagen
 - [ ] git Befehle
 - [ ] git Übungen
-###Teil 2
+
+### Teil 2
 - [x] Python installieren
 - [ ] cmder installieren
 - [ ] programmieren mit python
