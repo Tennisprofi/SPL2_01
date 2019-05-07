@@ -9,4 +9,5 @@
 ### Teil 2
 - [x] Python installieren
 - [ ] cmder installieren
-- [ ] programmieren mit python
+- [ ] Erste Schritte mit Python
+- [ ] Programmieren mit Python
